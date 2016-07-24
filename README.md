@@ -30,5 +30,5 @@ This repository contains a **Dockerfile** that leverages AlpineLinux to build a 
 
 or if you're feeling adventureous
 
-    docker run -it -rm patelify/ruby /bin/bash
+    docker run -it -rm patelify/sbt /bin/bash
 
