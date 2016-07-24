@@ -10,7 +10,7 @@ A [SBT](http://www.scala-sbt.org/) container image built from [AlpineLinux](http
 
 ## Image Details
 - java (openjdk 1.7)
-- sbt (0.13.11)
+- sbt (0.13.8)
 
 ## SBT Dockerfile
 

@@ -8,7 +8,7 @@ RUN apk add --update bash curl gzip tar openjdk7 \
 ENV JAVA_HOME /usr/lib/jvm/java-1.7-openjdk
 
 # Configure sbt environment
-ENV SBT_VERSION 0.13.11
+ENV SBT_VERSION 0.13.8
 ENV SBT_HOME /usr/local/sbt
 ENV PATH ${PATH}:${SBT_HOME}/bin
 
